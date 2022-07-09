@@ -3,7 +3,7 @@
 ## Results:
 ### On  below image (Scatter plot), we can see that we have larger volume of rides and fare in urban cities compared to suburban and rural cities. 
 ## Image PyBer Ride-Sharing Data (2019)
-![PyBer Ride-Sharing Data (2019)]((https://github.com/Rubina-Shrivastava/PyBer_Analysis/blob/main/analysis/Fig1.png))
+![PyBer Ride-Sharing Data (2019)](https://github.com/Rubina-Shrivastava/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
 ### On below Images (Pie chart) WE can see that how many drivers,rides and fare using for rural, surburban, and urban cities.For example There were 2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities.
 #### Image total fares
